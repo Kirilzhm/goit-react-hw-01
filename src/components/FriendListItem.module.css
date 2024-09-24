@@ -1,27 +1,26 @@
-
-.item{
+.item {
     width: 95px;
-    border: 2px solid black; 
+    border: 2px solid black;
     border-radius: 5px;
 }
 
-.avatar{
+.avatar {
     width: 70px;
     margin-top: 10px;
 }
 
-.info{
+.info {
     margin-top: 20px;
 }
 
-.name{
+.name {
     color: black;
     margin: 0;
     font-size: 20px;
     font-weight: 500;
 }
 
-.onlineText{
+.onlineText {
     color: green;
     font-weight: 500;
     margin: 0;
@@ -29,7 +28,7 @@
     margin-bottom: 5px;
 }
 
-.offlineText{
+.offlineText {
     color: red;
     font-weight: 500;
     margin: 0;

@@ -1,4 +1,4 @@
-.table{
+.table {
     width: 500px;
     margin-top: 50px;
     margin-left: 50px;
@@ -6,20 +6,20 @@
     border: 2px solid black;
 }
 
-.startingTable{
+.startingTable {
     background-color: black;
 }
 
-.tableBodyColumns{
+.tableBodyColumns {
     border: 1px solid black;
     color: black;
     text-align: center;
 }
 
-.tableColumn:nth-child(odd){
+.tableColumn:nth-child(odd) {
     background-color: #fff;
 }
 
-.tableColumn:nth-child(even){
+.tableColumn:nth-child(even) {
     background-color: #f2f2f2;
 }

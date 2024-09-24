@@ -1,5 +1,4 @@
-
-.profile{
+.profile {
     background-color: #f0f0f0;
     border: 3px solid black;
     border-radius: 2.5%;
@@ -9,12 +8,12 @@
     margin-left: 100px;
 }
 
-.description{
+.description {
     text-align: center;
     margin-top: 10px;
 }
 
-.avatar{
+.avatar {
     width: 100px;
     height: 100px;
     border-radius: 50px;
@@ -24,14 +23,14 @@
     background-color: black;
 }
 
-.name{
+.name {
     color: black;
     font-size: 24px;
     font-weight: 700;
     margin: 0;
 }
 
-.tag{
+.tag {
     color: #7a7a7a;
     font-size: 20px;
     font-weight: 400;
@@ -39,7 +38,7 @@
     margin-top: 5px;
 }
 
-.location{
+.location {
     color: #7a7a7a;
     font-size: 20px;
     font-weight: 400;
@@ -47,7 +46,7 @@
     margin-top: 5px;
 }
 
-.stats{
+.stats {
     display: flex;
     justify-content: space-between;
     padding: 0;
@@ -59,7 +58,7 @@
     margin-top: 20px;
 }
 
-.stat{
+.stat {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -71,14 +70,12 @@
 .stat:not(:first-child) {
     border-left: 2px solid #7a7a7a;
 }
-    
-.label{
+
+.label {
     color: black;
 }
 
-.quantity{
+.quantity {
     color: black;
     font-weight: bold;
 }
-
-
