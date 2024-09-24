@@ -16,7 +16,7 @@
     text-align: center;
 }
 
-.tableColumn:nth-child(old){
+.tableColumn:nth-child(odd){
     background-color: #fff;
 }
 
