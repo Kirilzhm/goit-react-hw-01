@@ -30,4 +30,4 @@ const Profile = ({ name, tag, location, image, stats }) => {
 };
 
 
-export default Profile
+export default Profile;
